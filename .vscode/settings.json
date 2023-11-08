@@ -3,6 +3,8 @@
     "clsx",
     "heroicons",
     "latin",
-    "sidenav"
+    "postgres",
+    "sidenav",
+    "tailwindcss"
   ]
 }
